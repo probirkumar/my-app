@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  background-color: violet;
+  border: 3px solid purple;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.person{
+  background-color: cadetblue;
+  border: 3px solid purple;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+}
